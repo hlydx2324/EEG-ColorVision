@@ -5,6 +5,7 @@ The stimuli design and core signal processing codes used in paper “EEG Quantif
 Code list:
 
 i.	Signal processing
+
 This is for the EEG data processing and equiluminance threshold determination.
 
 ii.	Visual stimulus
